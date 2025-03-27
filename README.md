@@ -19,5 +19,10 @@ Economic Success Criteria: Reduce costs associated with storing and managing exc
 https://github.com/namit-rai/Pharmaceuticals-Inventory-Management/blob/main/Pharmaceuticals%20Inventory%20Architecture.jpg
 
 # Dataset
+https://github.com/namit-rai/Pharmaceuticals-Inventory-Management/blob/main/pharma%20dataset.csv
+
+# Data Processing and Cleaning using Python
+# Data Processing and Cleaning using SQL
+# Data Visualizaton using Power BI
 
 
