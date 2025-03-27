@@ -16,4 +16,8 @@ Business Success Criteria: Reduce underutilized stock levels in the inventory by
 Economic Success Criteria: Reduce costs associated with storing and managing excess raw material by at least 25%.
 
 # Project Architecture
+https://github.com/namit-rai/Pharmaceuticals-Inventory-Management/blob/main/Pharmaceuticals%20Inventory%20Architecture.jpg
+
+# Dataset
+
 
