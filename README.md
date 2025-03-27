@@ -15,3 +15,5 @@ Maximize current stock utilization.
 Business Success Criteria: Reduce underutilized stock levels in the inventory by at least 20%.
 Economic Success Criteria: Reduce costs associated with storing and managing excess raw material by at least 25%.
 
+# Project Architecture
+
