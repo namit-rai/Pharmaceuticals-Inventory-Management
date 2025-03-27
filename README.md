@@ -12,6 +12,6 @@ Minimize inventory cost.
 Maximize current stock utilization.
 
 # Success Criteria:
-o	Business Success Criteria: Reduce underutilized stock levels in the inventory by at least 20%.
-o	Economic Success Criteria: Reduce costs associated with storing and managing excess raw material by at least 25%.
+Business Success Criteria: Reduce underutilized stock levels in the inventory by at least 20%.
+Economic Success Criteria: Reduce costs associated with storing and managing excess raw material by at least 25%.
 
