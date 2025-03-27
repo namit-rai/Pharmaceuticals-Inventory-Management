@@ -22,6 +22,8 @@ https://github.com/namit-rai/Pharmaceuticals-Inventory-Management/blob/main/Phar
 https://github.com/namit-rai/Pharmaceuticals-Inventory-Management/blob/main/pharma%20dataset.csv
 
 # Data Processing and Cleaning using Python
+https://github.com/namit-rai/Pharmaceuticals-Inventory-Management/blob/main/pharma.py
+
 # Data Processing and Cleaning using SQL
 # Data Visualizaton using Power BI
 
